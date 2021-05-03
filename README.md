@@ -1,1 +1,2 @@
-My personal portfolio website!
+## Sophia Vellozzi
+Welcome to my personal portfolio website!
